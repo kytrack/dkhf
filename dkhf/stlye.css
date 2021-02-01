@@ -1,0 +1,63 @@
+body
+{
+    background-image:url('bg.jpg');
+	background-size:cover;
+	background-attachment:fixed;
+	font-family:'Monotype Corsiva';
+	font-size:1.5em;
+}
+
+
+#container
+{
+    margin:auto;
+    background-color: rgba(70,150,250,0.5);
+    width: 80%;
+    text-align: center;
+    color: white;
+}
+
+nav
+{
+	font-family:serif;
+	text-align:center;
+	width:85%;
+    margin:auto;
+    background-color: rgba(255,255,255,0.25);
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 28;
+}
+
+
+nav ul li a:hover
+{
+	
+}
+
+footer
+{
+    clear:both;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: center;
+}
+
+
+article img
+{
+	border:2px solid rgba(255,255,255,0.5);
+    float:right;
+    width: 40%;
+}
+
+
+header
+{
+    border-collapse: solid;
+    border-width: 2px;
+    border-color: rgba(255,255,255,0.5);
+}
+
+
